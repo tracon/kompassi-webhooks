@@ -1,5 +1,7 @@
 # Kompassi WebHooks example
 
+[![Build Status](https://travis-ci.org/tracon/kompassi-webhooks.svg?branch=master)](https://travis-ci.org/tracon/kompassi-webhooks)
+
 We plan to do updating mailing lists, e-mail aliases etc. via webhooks. This is a rough sample
 application for those webhooks.
 
